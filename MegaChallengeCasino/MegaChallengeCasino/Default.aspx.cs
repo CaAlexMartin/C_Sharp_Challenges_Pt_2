@@ -13,9 +13,20 @@ namespace MegaChallengeCasino
 
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (!Page.IsPostBack)
+            {
+                //Default random reel values upon load
+                string[] reels = new string[] { spinReel(), spinReel(), spinReel() };
+                displayImages(reels);
+                ViewState.Add("PlayersMoney", 100);
+                displayPlayersMoney();
+            }
         }
-
+        //Players money helper method
+        private void displayPlayersMoney()
+        {
+            moneyLabel.Text = String.Format("Player's Money: {0:C}", ViewState["PlayersMoney"]);
+        }
         protected void pullButton_Click(object sender, EventArgs e)
         {
             int bet = 0;
@@ -23,7 +34,17 @@ namespace MegaChallengeCasino
 
             int winnings = pullLever(bet);
             displayResult(bet, winnings);
+            adjustPlayersMoney(bet, winnings);
+            displayPlayersMoney();
 
+        }
+
+        private void adjustPlayersMoney(int bet, int winnings)
+        {
+            int playersMoney = int.Parse(ViewState["PlayersMoney"].ToString());
+            playersMoney -= bet;
+            playersMoney += winnings;
+            ViewState["PlayersMoney"] = playersMoney;
         }
 
         private void displayResult(int bet, int winnings)

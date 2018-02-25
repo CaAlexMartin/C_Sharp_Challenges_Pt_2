@@ -10,3 +10,9 @@ C:\Users\Alex\Documents\Visual Studio 2015\Projects\MegaChallengeCasino\MegaChal
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.dll
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.pdb
+C:\Users\Alex\Documents\GitHub\C_Sharp_Challenges_pt_2\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll.config
+C:\Users\Alex\Documents\GitHub\C_Sharp_Challenges_pt_2\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll
+C:\Users\Alex\Documents\GitHub\C_Sharp_Challenges_pt_2\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.pdb
+C:\Users\Alex\Documents\GitHub\C_Sharp_Challenges_pt_2\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\C_Sharp_Challenges_pt_2\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.dll
+C:\Users\Alex\Documents\GitHub\C_Sharp_Challenges_pt_2\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.pdb
