@@ -12,13 +12,13 @@ namespace ChallengeHeroMonsterClassesPart1
         protected void Page_Load(object sender, EventArgs e)
         {
             Character hero = new Character();
-            hero.Name = "Alex";
+            hero.Name = "Captain America";
             hero.Health = 35;
             hero.DamageMaximum = 20;
             hero.AttackBonus = false;
 
             Character monster = new Character();
-            monster.Name = "Michelle";
+            monster.Name = "Loki";
             monster.Health = 21;
             monster.DamageMaximum = 25;
             monster.AttackBonus = true;
