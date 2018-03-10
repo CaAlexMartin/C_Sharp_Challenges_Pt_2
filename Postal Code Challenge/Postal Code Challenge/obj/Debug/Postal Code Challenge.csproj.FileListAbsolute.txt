@@ -1,0 +1,33 @@
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\ApplicationInsights.config
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\csc.exe
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\vbc.exe
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\VBCSCompiler.exe
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Postal Code Challenge.dll.config
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Postal Code Challenge.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Postal Code Challenge.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.AI.Web.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.ApplicationInsights.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.AI.Web.xml
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.ApplicationInsights.xml
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\obj\Debug\Postal Code Challenge.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\obj\Debug\Postal Code Challenge.dll
+c:\users\alex\documents\visual studio 2015\Projects\Postal Code Challenge\Postal Code Challenge\obj\Debug\Postal Code Challenge.pdb
