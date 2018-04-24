@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.pdb

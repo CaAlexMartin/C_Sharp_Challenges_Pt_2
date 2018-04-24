@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.pdb
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.pdb
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.pdb
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csproj.CopyComplete
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll.config
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\EntityFramework.xml

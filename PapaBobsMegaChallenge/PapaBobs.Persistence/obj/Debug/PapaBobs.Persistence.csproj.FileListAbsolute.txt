@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.pdb
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.pdb
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csproj.CopyComplete
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll.config
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\C-Sharp Challenges\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.xml
